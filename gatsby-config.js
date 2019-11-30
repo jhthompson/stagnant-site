@@ -14,6 +14,10 @@ module.exports = {
         title: `About`,
         slug: `/about`,
       },
+      {
+        title: 'Cheat Sheets',
+        slug: '/cheat',
+      },
     ],
   },
   plugins: [
